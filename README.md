@@ -1,6 +1,8 @@
 # stackspy
 Get a log of a user's activity on Stackoverflow
 
+Note: Updates every 5 minutes
+
 ## How to run
 ```
 Install Python 3
